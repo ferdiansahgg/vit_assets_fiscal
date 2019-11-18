@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vit_assets_fiscal_vit_assets_fiscal,vit_assets_fiscal.vit_assets_fiscal,model_vit_assets_fiscal_vit_assets_fiscal,,1,0,0,0
