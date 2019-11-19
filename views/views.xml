@@ -12,7 +12,7 @@
           <field name="amount_degresive"/>
           <field name="depreciated_value_degresive"/>
           <field name="remaining_value_degresive"/>
-          <!-- <field name="difference"/> -->
+          <field name="depreciation_difference"/>
         </field>
       </field>
     </record>
